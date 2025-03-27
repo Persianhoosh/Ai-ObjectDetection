@@ -1,2 +1,1 @@
-# Ai-ObjectDetection
-انتخاب سوژه از تصویر
+2️⃣ Create a Virtual Environment (Optional but Recommended)
