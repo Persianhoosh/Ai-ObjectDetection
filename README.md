@@ -14,7 +14,8 @@ Description
    ==============================
     pip install opencv-python rembg matplotlib onnxruntime
     
-2️⃣ Create a Virtual Environment (Optional but Recommended):
+2️⃣ Create a Virtual Environment 
+    (Optional but Recommended):
    ===============================  
     python -m venv venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
